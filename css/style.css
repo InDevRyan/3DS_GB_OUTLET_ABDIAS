@@ -14,3 +14,13 @@
 .centeralizar{
     text-align: center
 }
+
+.produtos img {
+    width:100px;
+    height:200px;
+    border-radius:10px;
+}
+
+.produtos img:hover {
+    transform: scale(1.2);
+}
